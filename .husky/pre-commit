@@ -1,1 +1,1 @@
-npm precommit-checks
+npm run precommit-checks
