@@ -8,6 +8,7 @@
 ![Husky](https://img.shields.io/badge/precommit-husky-000000?logo=git&logoColor=white)
 [![CI](https://github.com/thiagoanegreiros/claims-service/actions/workflows/ci.yml/badge.svg)](https://github.com/thiagoanegreiros/claims-service/actions/workflows/ci.yml)
 
+
 The **Claims Service** is a backend API built with **Node.js** and **TypeScript**, designed for ingesting and querying **healthcare claims CSV files**.  
 It follows the principles of **Hexagonal Architecture (Ports & Adapters)**, focusing on **clarity, testability, extensibility, and simplicity**.
 
