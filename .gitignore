@@ -48,7 +48,6 @@ tsconfig.tsbuildinfo
 .env.production.local
 
 # IDE / OS
-.vscode/
 .idea/
 *.swp
 *.swo
