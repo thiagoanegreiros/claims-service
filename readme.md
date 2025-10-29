@@ -227,7 +227,7 @@ Feel free to:
 
 **Thiago Ananias**  
 Cloud Architect & Software Engineer  
-[GitHub](https://github.com/thiagoanegreiros) • [LinkedIn](https://linkedin.com/in/thiagoanegreiros)
+[GitHub](https://github.com/thiagoanegreiros) • [LinkedIn](https://www.linkedin.com/in/thiago-ananias-negreiros-silva-7178874a/)
 
 ---
 
