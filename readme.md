@@ -6,6 +6,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-5.x-3178C6?logo=typescript&logoColor=white)
 ![ESLint](https://img.shields.io/badge/lint-eslint-4B32C3?logo=eslint&logoColor=white)
 ![Husky](https://img.shields.io/badge/precommit-husky-000000?logo=git&logoColor=white)
+[![CI](https://github.com/thiagoanegreiros/claims-service/actions/workflows/ci.yml/badge.svg)](https://github.com/thiagoanegreiros/claims-service/actions/workflows/ci.yml)
 
 The **Claims Service** is a backend API built with **Node.js** and **TypeScript**, designed for ingesting and querying **healthcare claims CSV files**.  
 It follows the principles of **Hexagonal Architecture (Ports & Adapters)**, focusing on **clarity, testability, extensibility, and simplicity**.
@@ -34,6 +35,12 @@ This project simulates a real-world internal service used by customer support ag
 - ✅ Jest Parcial unit test coverage
 - ✅ Integration tests for all endpoints  
 - ✅ Husky and Linting
+
+## What to do next?
+- Integrate an Inversion of Control (IoC) Framework
+- Implement Real Database Integration (Dynamo, Mongo etc)
+- Expand and Finalize Unit Test Coverage
+- Deploy to a Test/Staging Environment
 
 ---
 
