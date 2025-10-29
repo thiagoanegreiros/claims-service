@@ -3,11 +3,10 @@
 ![Node.js](https://img.shields.io/badge/node-%3E=20.x-brightgreen.svg)
 ![TypeScript](https://img.shields.io/badge/typescript-5.x-blue.svg)
 ![Middy](https://img.shields.io/badge/middy-6.x-orange.svg)
-![TypeScript](https://img.shields.io/badge/typescript-5.x-3178C6?logo=typescript&logoColor=white)
 ![ESLint](https://img.shields.io/badge/lint-eslint-4B32C3?logo=eslint&logoColor=white)
+![Jest](https://img.shields.io/badge/tested_with-jest-99424f.svg?logo=jest)
 ![Husky](https://img.shields.io/badge/precommit-husky-000000?logo=git&logoColor=white)
 [![CI](https://github.com/thiagoanegreiros/claims-service/actions/workflows/ci.yml/badge.svg)](https://github.com/thiagoanegreiros/claims-service/actions/workflows/ci.yml)
-
 
 The **Claims Service** is a backend API built with **Node.js** and **TypeScript**, designed for ingesting and querying **healthcare claims CSV files**.  
 It follows the principles of **Hexagonal Architecture (Ports & Adapters)**, focusing on **clarity, testability, extensibility, and simplicity**.
@@ -34,14 +33,22 @@ This project simulates a real-world internal service used by customer support ag
 - ✅ Ready for unit and integration testing using **Jest**
 - ✅ Local execution via **VSCode Debug** or `npm run dev`
 - ✅ Jest Parcial unit test coverage
-- ✅ Integration tests for all endpoints  
 - ✅ Husky and Linting
 
 ## What to do next?
 - Integrate an Inversion of Control (IoC) Framework
 - Implement Real Database Integration (Dynamo, Mongo etc)
 - Expand and Finalize Unit Test Coverage
-- Deploy to a Test/Staging Environment
+- Create infrastructure and deploy the application
+- Implement Role-Based Authorization (JTW)
+- Integrate OpenTelemetry for Unified Observability / centralized error handling, logs and metrics
+- Add Pagination Support for API Results
+- This is a sample project / Not meant to production
+- Use GitHub Security Tools for Code and Dependency Analysis
+
+Note: This is a Sample Project (Not Intended for Production Use)
+The implementation is designed for educational and demonstration purposes only.
+Security, scalability, and resilience optimizations are intentionally simplified.
 
 ---
 
