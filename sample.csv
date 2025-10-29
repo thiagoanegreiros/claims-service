@@ -1,0 +1,8 @@
+claimId,memberId,provider,serviceDate,totalAmount,diagnosisCodes
+CLM001,MBR001,HealthCare Inc,2025-05-14,12500,R51;K21.9
+CLM002,MBR002,Dr. Smith Clinic,2025-05-13,8999,R10.9
+CLM003,MBR001,City Hospital,2025-05-30,30000,M54.5
+CLM004,MBR003,QuickMed Urgent Care,2025-05-13,7550,
+CLM005,,Sunrise Medical Group,2025-05-13,11200,J06.9
+CLM006,MBR004,Dr. Green Clinic,2025-05-15,-5000,R07.0
+CLM007,MBR005,WellCare Plus,2025-05-16,22000,M25.5
